@@ -14,6 +14,7 @@ function changeGender () {
     h1Jmeno.textContent = "Štěpánka";
     imgGender.src = "obrazky/dite-zena.png";
     }
+
   //pocitadlo = pocitadlo + 1;
     pocitadlo++; //inkrementuj (přičti o 1)
 }
